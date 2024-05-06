@@ -1,3 +1,3 @@
 ls -l
 pwd
-dnf installed | grep vim
+dnf list install | grep vim
